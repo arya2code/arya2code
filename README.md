@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Arya Nandini<br><br>🔭 I’m currently working on AI & Machine Learning projects using Python & Jupyter Notebook<br><br>🌱 I’m currently learning DSA, OOP (Java), ML algorithms, and Cloud-based AI systems<br><br>👯 I’m looking to collaborate on AI/ML, data-driven, and open-source projects<br><br>💬 Ask me about Python, Machine Learning basics, and applied AI projects<br><br>🎯 Aspiring Software Engineering / ML Intern at Big Tech companies<br><br>⚡ Fun fact: I focus on building first, optimizing next, and scaling gradually
+👋 Hi, I’m Arya Nandini<br><br>🔭 I’m currently working on AI & Machine Learning projects using Python & Jupyter Notebook<br><br>🌱 I’m currently learning DSA, OOP (Java), ML algorithms, and Cloud-based AI systems<br><br>👯 I’m looking to collaborate on AI/ML, data-driven, and open-source projects<br><br>💬 Ask me about Python, Machine Learning basics, and applied AI projects<br><br>🎯 Aspiring Software Engineering / ML Intern at Big Tech companies<br><br>⚡ Fun fact: I focus on building first, optimizing next, and scaling gradually.
 
 
 ## 🌐 Socials:
